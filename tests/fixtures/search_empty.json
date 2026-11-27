@@ -1,0 +1,13 @@
+{
+  "maxErgebnisse" : 0,
+  "page" : 1,
+  "size" : 5,
+  "woOutput" : {
+    "bereinigterOrt" : "Kiel",
+    "suchmodus" : "UMKREISSUCHE",
+    "koordinaten" : [ {
+      "lat" : 54.33451815,
+      "lon" : 10.1303355
+    } ]
+  }
+}

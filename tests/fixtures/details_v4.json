@@ -1,0 +1,46 @@
+{
+  "stellenangebotsart" : "ARBEIT",
+  "stellenangebotsTitel" : "Softwareentwickler / Test Engineer C++ und Python (m/w/d)",
+  "quereinstiegGeeignet" : false,
+  "stellenangebotsBeschreibung" : "## Diese Aufgaben warten auf Sie:\n\n- Mitarbeit in einem agilen Entwicklungsteam an Softwareprodukten für die Marinekommunikation\n- Verankerung und Weiterentwicklung des Qualitätsgedankens innerhalb der Entwicklungsteams\n- Verantwortung für die Verifikation von Teamergebnissen als Testexperte im Entwicklungsteam\n- Auswahl und Anwendung geeigneter Testmethoden zur Qualitätssicherung\n- Erstellung, Pflege und Ausführung von Unit-Tests zur Sicherstellung der Codequalität\n- Entwicklung und Wartung automatisierter Tests zur Absicherung von Software-Releases\n- Durchführung manueller Testverfahren bei Bedarf\n- Enge Zusammenarbeit mit dem Testteam zur zuverlässigen Absicherung der Release-Zyklen\n\n## Was Sie mitbringen sollten:\n\n- Abgeschlossenes Studium der Informatik, Elektro- und Informationstechnik oder eine vergleichbare Ausbildung\n- Erste Kenntnisse oder Berufserfahrung im Bereich Software-Testing\n- Erfahrung in der Erstellung und Durchführung von Unit-Tests\n- Gute Programmierkenntnisse in Python und C++\n- Erfahrung mit Versionsverwaltungssystemen, vorzugsweise GitLab oder GitHub\n- Gute Kenntnisse agiler Methoden, insbesondere Scrum\n- Selbstständige, strukturierte und zielorientierte Arbeitsweise\n- Hohe Teamfähigkeit sowie offene und transparente Kommunikation\n- Gute Deutsch- und Englischkenntnisse in Wort und Schrift\n\n## Warum Cs2?\n\nCs2 ITEC bietet Ihnen als Berufseinsteiger oder erfahrenem Spezialisten ausgezeichnete Möglichkeiten der fachlichen und persönlichen Weiterentwicklung.  \n\n Bei spannenden und abwechslungsreichen Tätigkeiten für internationale Großkunden und Konzerne, bauen Sie, je nach Aufgabenstellung und Position tiefes Fachwissen in neuesten Technologien oder breites Projektleitungs- bzw. Führungs-Know-how auf.\n\n## Das bieten wir Ihnen:\n\n- Abwechslungsreiche Tätigkeiten in einem spannenden Aufgabenfeld\n- Internationale Großprojekte bei namhaften Kunden\n- Mitarbeit in einem sympathischen und motiviertem Team\n- Angenehmes und kollegiales Arbeitsumfeld\n- Interessante Perspektiven für die fachliche und persönliche Weiterentwicklung\n- Attraktive Vergütung und flexible, familienfreundliche Arbeitszeiten",
+  "arbeitszeitSchichtNachtWochenende" : false,
+  "arbeitszeitTeilzeitAbend" : false,
+  "arbeitszeitTeilzeitNachmittag" : false,
+  "arbeitszeitTeilzeitVormittag" : false,
+  "arbeitszeitTeilzeitFlexibel" : false,
+  "arbeitszeitVollzeit" : false,
+  "eintrittszeitraum" : {
+    "von" : "2026-11-06"
+  },
+  "verguetungsangabe" : "KEINE_ANGABEN",
+  "vertragsdauer" : "KEINE_ANGABE",
+  "istGeringfuegigeBeschaeftigung" : false,
+  "istBehinderungGefordert" : false,
+  "stellenlokationen" : [ {
+    "adresse" : {
+      "plz" : "24103",
+      "ort" : "Kiel",
+      "region" : "SCHLESWIG_HOLSTEIN",
+      "land" : "DEUTSCHLAND"
+    },
+    "breite" : 54.3230917,
+    "laenge" : 10.1317967
+  } ],
+  "homeofficemoeglich" : false,
+  "chiffrenummer" : "283946",
+  "istPrivateArbeitsvermittlung" : false,
+  "istArbeitnehmerUeberlassung" : false,
+  "veroeffentlichungszeitraum" : {
+    "von" : "2026-11-06"
+  },
+  "datumErsteVeroeffentlichung" : "2026-11-06",
+  "aenderungsdatum" : "2026-11-06T07:09:50.273",
+  "externeURL" : "https://www.get-in-engineering.de/jobsuche/p283946?utm_source=arbeitsagentur&utm_medium=organic&utm_campaign=launch-basic",
+  "istBetreut" : false,
+  "hauptberuf" : "Ingenieur/in - Elektrotechnik",
+  "alternativBeruf1" : "Ingenieur/in - Informations-, Kommunikationstechnik",
+  "firma" : "Cs2 ITEC",
+  "allianzpartnerUrl" : "www.get-in-Engineering.de",
+  "allianzpartnerName" : "get in GmbH",
+  "referenznummer" : "13645-283946-S"
+}

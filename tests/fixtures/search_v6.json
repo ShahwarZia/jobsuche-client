@@ -1,0 +1,491 @@
+{
+  "ergebnisliste" : [ {
+    "stellenangebotsart" : "SELBSTAENDIGKEIT",
+    "stellenangebotsTitel" : "Python Advanced",
+    "arbeitszeitVollzeit" : true,
+    "eintrittszeitraum" : {
+      "von" : "2026-11-23"
+    },
+    "verguetungsangabe" : "KEINE_ANGABEN",
+    "vertragsdauer" : "KEINE_ANGABE",
+    "stellenlokationen" : [ {
+      "adresse" : {
+        "strasse" : "Eggerstedtstraße",
+        "hausnummer" : "11a",
+        "plz" : "24103",
+        "ort" : "Kiel",
+        "region" : "SCHLESWIG_HOLSTEIN",
+        "land" : "DEUTSCHLAND"
+      },
+      "breite" : 54.3227123,
+      "laenge" : 10.1409531
+    } ],
+    "homeofficemoeglich" : true,
+    "homeofficetyp" : "NACH_VEREINBARUNG",
+    "veroeffentlichungszeitraum" : {
+      "von" : "2026-11-02"
+    },
+    "datumErsteVeroeffentlichung" : "2025-01-27",
+    "aenderungsdatum" : "2026-11-02T11:36:59.954",
+    "hauptberuf" : "Informatiker/in",
+    "firma" : "alfatraining Bildungszentrum GmbH",
+    "arbeitgeberKundennummerHash" : "B1uI-VVbWW1P5U3F8Dc8FWLNlcfpehFSi__pNJ8EbIo=",
+    "referenznummer" : "10001-1000961415-S",
+    "entfernung" : 1,
+    "alleBerufe" : [ "Informatiker/in" ]
+  }, {
+    "stellenangebotsart" : "SELBSTAENDIGKEIT",
+    "stellenangebotsTitel" : "Programmierung mit Python",
+    "arbeitszeitVollzeit" : true,
+    "eintrittszeitraum" : {
+      "von" : "2026-11-23"
+    },
+    "verguetungsangabe" : "KEINE_ANGABEN",
+    "vertragsdauer" : "KEINE_ANGABE",
+    "stellenlokationen" : [ {
+      "adresse" : {
+        "strasse" : "Hopfenstraße",
+        "hausnummer" : "31",
+        "plz" : "24103",
+        "ort" : "Kiel",
+        "region" : "SCHLESWIG_HOLSTEIN",
+        "land" : "DEUTSCHLAND"
+      },
+      "breite" : 54.3160469,
+      "laenge" : 10.1285884
+    } ],
+    "homeofficemoeglich" : true,
+    "homeofficetyp" : "NACH_VEREINBARUNG",
+    "veroeffentlichungszeitraum" : {
+      "von" : "2026-11-02"
+    },
+    "datumErsteVeroeffentlichung" : "2025-02-10",
+    "aenderungsdatum" : "2026-11-02T10:12:18.335",
+    "hauptberuf" : "Informatiker/in",
+    "firma" : "alfatraining Bildungszentrum GmbH",
+    "arbeitgeberKundennummerHash" : "B1uI-VVbWW1P5U3F8Dc8FWLNlcfpehFSi__pNJ8EbIo=",
+    "referenznummer" : "10000-1183300738-S",
+    "entfernung" : 2,
+    "alleBerufe" : [ "Informatiker/in" ]
+  }, {
+    "stellenangebotsart" : "ARBEIT",
+    "stellenangebotsTitel" : "Softwareentwickler / Test Engineer C++ und Python (m/w/d)",
+    "quereinstiegGeeignet" : false,
+    "arbeitszeitSchichtNachtWochenende" : false,
+    "arbeitszeitTeilzeitAbend" : false,
+    "arbeitszeitTeilzeitNachmittag" : false,
+    "arbeitszeitTeilzeitVormittag" : false,
+    "arbeitszeitTeilzeitFlexibel" : false,
+    "arbeitszeitVollzeit" : false,
+    "eintrittszeitraum" : {
+      "von" : "2026-11-06"
+    },
+    "verguetungsangabe" : "KEINE_ANGABEN",
+    "vertragsdauer" : "KEINE_ANGABE",
+    "istGeringfuegigeBeschaeftigung" : false,
+    "stellenlokationen" : [ {
+      "adresse" : {
+        "plz" : "24103",
+        "ort" : "Kiel",
+        "region" : "SCHLESWIG_HOLSTEIN",
+        "land" : "DEUTSCHLAND"
+      },
+      "breite" : 54.3230917,
+      "laenge" : 10.1317967
+    } ],
+    "homeofficemoeglich" : false,
+    "chiffrenummer" : "283946",
+    "veroeffentlichungszeitraum" : {
+      "von" : "2026-11-06"
+    },
+    "datumErsteVeroeffentlichung" : "2026-11-06",
+    "aenderungsdatum" : "2026-11-06T07:09:50.273",
+    "externeURL" : "https://www.get-in-engineering.de/jobsuche/p283946?utm_source=arbeitsagentur&utm_medium=organic&utm_campaign=launch-basic",
+    "hauptberuf" : "Ingenieur/in - Elektrotechnik",
+    "alternativBeruf1" : "Ingenieur/in - Informations-, Kommunikationstechnik",
+    "firma" : "Cs2 ITEC",
+    "referenznummer" : "13645-283946-S",
+    "entfernung" : 1,
+    "alleBerufe" : [ "Ingenieur/in - Elektrotechnik", "Ingenieur/in - Informations-, Kommunikationstechnik" ]
+  }, {
+    "stellenangebotsart" : "ARBEIT",
+    "stellenangebotsTitel" : "Software Architekt (m/w/d)",
+    "arbeitszeitVollzeit" : true,
+    "eintrittszeitraum" : {
+      "von" : "2026-11-24"
+    },
+    "verguetungsangabe" : "KEINE_ANGABEN",
+    "vertragsdauer" : "UNBEFRISTET",
+    "stellenlokationen" : [ {
+      "adresse" : {
+        "ort" : "Kiel",
+        "region" : "SCHLESWIG_HOLSTEIN",
+        "land" : "DEUTSCHLAND"
+      },
+      "breite" : 54.331522406,
+      "laenge" : 10.139105658
+    } ],
+    "homeofficemoeglich" : true,
+    "homeofficetyp" : "ANGABE_IN_PROZENT",
+    "homeofficeprozent" : 95,
+    "veroeffentlichungszeitraum" : {
+      "von" : "2026-11-24"
+    },
+    "datumErsteVeroeffentlichung" : "2026-11-24",
+    "aenderungsdatum" : "2026-11-24T13:41:02.268",
+    "hauptberuf" : "Informatiker/in",
+    "firma" : "Citema Group GmbH",
+    "arbeitgeberKundennummerHash" : "04bQAUZAq6ctPVExLo4KysEXLik9AOvXxAzrZdxhOOo=",
+    "referenznummer" : "10001-1004060594-S",
+    "entfernung" : 1,
+    "alleBerufe" : [ "Informatiker/in" ]
+  }, {
+    "stellenangebotsart" : "ARBEIT",
+    "stellenangebotsTitel" : "Software Entwickler C++ (m/w/d)",
+    "arbeitszeitVollzeit" : true,
+    "eintrittszeitraum" : {
+      "von" : "2026-11-24"
+    },
+    "verguetungsangabe" : "KEINE_ANGABEN",
+    "vertragsdauer" : "UNBEFRISTET",
+    "stellenlokationen" : [ {
+      "adresse" : {
+        "ort" : "Kiel",
+        "region" : "SCHLESWIG_HOLSTEIN",
+        "land" : "DEUTSCHLAND"
+      },
+      "breite" : 54.331522406,
+      "laenge" : 10.139105658
+    } ],
+    "homeofficemoeglich" : true,
+    "homeofficetyp" : "ANGABE_IN_PROZENT",
+    "homeofficeprozent" : 95,
+    "veroeffentlichungszeitraum" : {
+      "von" : "2026-11-24"
+    },
+    "datumErsteVeroeffentlichung" : "2026-11-24",
+    "aenderungsdatum" : "2026-11-24T09:55:29.871",
+    "hauptberuf" : "Informatiker/in",
+    "firma" : "Citema Group GmbH",
+    "arbeitgeberKundennummerHash" : "04bQAUZAq6ctPVExLo4KysEXLik9AOvXxAzrZdxhOOo=",
+    "referenznummer" : "10001-1004060379-S",
+    "entfernung" : 1,
+    "alleBerufe" : [ "Informatiker/in" ]
+  } ],
+  "maxErgebnisse" : 37,
+  "page" : 1,
+  "size" : 5,
+  "woOutput" : {
+    "bereinigterOrt" : "Kiel",
+    "suchmodus" : "UMKREISSUCHE",
+    "koordinaten" : [ {
+      "lat" : 54.33451815,
+      "lon" : 10.1303355
+    } ]
+  },
+  "facetten" : {
+    "verguetung" : {
+      "counts" : {
+        "jahr" : 3,
+        "stunde" : 1
+      },
+      "maxCount" : 37
+    },
+    "befristung" : {
+      "counts" : {
+        "2" : 19,
+        "3" : 18
+      },
+      "maxCount" : 37
+    },
+    "externestellenboersen" : {
+      "counts" : {
+        "false" : 36,
+        "true" : 1
+      },
+      "maxCount" : 37
+    },
+    "behinderung" : {
+      "counts" : {
+        "false" : 20
+      },
+      "maxCount" : 37
+    },
+    "pav" : {
+      "counts" : {
+        "false" : 34,
+        "true" : 3
+      },
+      "maxCount" : 37
+    },
+    "berufsfeld" : {
+      "counts" : {
+        "Elektrotechnik" : 4,
+        "IT-Netzwerktechnik, -Administration, -Organisation" : 6,
+        "IT-Systemanalyse, -Anwendungsberatung und -Vertrieb" : 1,
+        "Informatik" : 10,
+        "Mathematik und Statistik" : 1,
+        "Mechatronik und Automatisierungstechnik" : 1,
+        "Objekt-, Personen-, Brandschutz, Arbeitssicherheit" : 1,
+        "Softwareentwicklung und Programmierung" : 6,
+        "Technische Produktionsplanung und -steuerung" : 1,
+        "Unteroffiziere mit Portepee" : 2,
+        "Werbung und Marketing" : 1
+      },
+      "maxCount" : 37
+    },
+    "topberuf" : {
+      "counts" : {
+        "Softwareentwickler/in" : 7,
+        "Informatiker/in" : 6,
+        "IT-Systemadministrator/in" : 5,
+        "Fachinformatiker/in - Anwendungsentwicklung" : 3,
+        "Ingenieur/in - Elektrotechnik" : 3
+      },
+      "scores" : {
+        "Softwareentwickler/in" : 122572,
+        "Informatiker/in" : 87204,
+        "IT-Systemadministrator/in" : 58340,
+        "Fachinformatiker/in - Anwendungsentwicklung" : 38307,
+        "Ingenieur/in - Elektrotechnik" : 10457
+      },
+      "maxCount" : 37
+    },
+    "arbeitsort" : {
+      "counts" : {
+        "Rendsburg" : 2,
+        "Böhnhusen" : 1,
+        "Kiel" : 31,
+        "Alt Duvenstedt" : 1,
+        "Eckernförde" : 1,
+        "Kropp bei Schleswig" : 1,
+        "Eutin" : 1,
+        "Altenholz" : 2,
+        "Plön" : 1,
+        "Panker" : 1,
+        "Flintbek" : 2,
+        "Jagel bei Schleswig" : 1,
+        "Oldenburg in Holstein" : 1
+      },
+      "maxCount" : 37
+    },
+    "ausbildungsart" : {
+      "counts" : {
+        "0" : 2,
+        "2" : 3
+      },
+      "maxCount" : 37
+    },
+    "veroeffentlichtseit" : {
+      "counts" : {
+        "14" : 7,
+        "28" : 18,
+        "7" : 3,
+        "alle" : 37
+      },
+      "maxCount" : 37
+    },
+    "schulbildung" : {
+      "counts" : {
+        "0" : 32,
+        "1" : 32,
+        "11" : 32,
+        "12" : 32,
+        "2" : 32,
+        "3" : 34,
+        "4" : 37,
+        "5" : 37,
+        "6" : 37
+      },
+      "maxCount" : 37
+    },
+    "arbeitsort_plz" : {
+      "counts" : {
+        "01067" : 5,
+        "06128" : 1,
+        "18055" : 5,
+        "18059" : 1,
+        "20537" : 2,
+        "23701" : 1,
+        "23758" : 1,
+        "24103" : 11,
+        "24106" : 1,
+        "24107" : 3,
+        "24114" : 6,
+        "24116" : 1,
+        "24118" : 1,
+        "24143" : 3,
+        "24161" : 2,
+        "24220" : 3,
+        "24306" : 1,
+        "24321" : 1,
+        "24340" : 1,
+        "24768" : 2,
+        "24791" : 1,
+        "24848" : 1,
+        "24878" : 1,
+        "24960" : 1,
+        "25746" : 1,
+        "25813" : 1,
+        "25917" : 1,
+        "28197" : 2,
+        "34117" : 5,
+        "34127" : 1,
+        "39104" : 6,
+        "66123" : 5,
+        "68161" : 5,
+        "78467" : 5,
+        "85630" : 2,
+        "89077" : 5,
+        "93047" : 5
+      },
+      "maxCount" : 37
+    },
+    "arbeitgeber" : {
+      "counts" : {
+        "AMADEUS FIRE AG" : 2,
+        "Bartels-Langness Handels GmbH & CoKG" : 1,
+        "Brunel GmbH NL Kiel" : 4,
+        "Bundesamt für das Personalmanagement der Bundeswehr" : 2,
+        "CORONIC GmbH" : 1,
+        "Citema Group GmbH" : 2,
+        "Cs2 ITEC" : 1,
+        "DATAPORT AdöR" : 2,
+        "DIS AG" : 1,
+        "LOHNunion GmbH" : 1,
+        "Lapmaster Wolters GmbH" : 1,
+        "PricewaterhouseCoopers GmbH WPG" : 1,
+        "Provinzial Nord Brandkasse AG" : 5,
+        "Rheinmetall AG" : 3,
+        "SCOPE Engineering GmbH" : 1,
+        "TKMS GmbH" : 3,
+        "Tintschl Technik GmbH Hannover" : 1,
+        "alfatraining Bildungszentrum GmbH" : 5
+      },
+      "maxCount" : 37
+    },
+    "beruf" : {
+      "counts" : {
+        "Anwendungsprogrammierer/in" : 2,
+        "Cloud-Architect" : 1,
+        "Data Engineer" : 2,
+        "Data Scientist" : 2,
+        "Data-Analyst/in" : 2,
+        "DevOps Engineer" : 1,
+        "Fachinformatiker/in - Anwendungsentwicklung" : 3,
+        "Fachinformatiker/in - Systemintegration" : 2,
+        "Feldwebel - Allgemeiner Fachdienst" : 2,
+        "IT-Projektleiter/in (Weiterbildung/Ausbildung)" : 1,
+        "IT-System-Elektroniker/in" : 1,
+        "IT-Systemadministrator/in" : 5,
+        "IT-Systemplaner/in" : 1,
+        "Informatiker/in" : 6,
+        "Ingenieur/in - Automatisierungstechnik" : 1,
+        "Ingenieur/in - Elektrotechnik" : 3,
+        "Ingenieur/in - Informations-, Kommunikationstechnik" : 1,
+        "Ingenieur/in - Sicherheitstechnik" : 1,
+        "Ingenieur/in - Technische Informatik" : 1,
+        "Kaufmann/-frau - IT-System-Management" : 2,
+        "Mathematiker/in" : 1,
+        "Messingenieur/in" : 1,
+        "Relationship-Manager/in" : 1,
+        "Resident Engineer" : 1,
+        "Software-Architect" : 1,
+        "Softwareentwickler/in" : 7,
+        "Systemelektroniker/in" : 1,
+        "Web Developer" : 1
+      },
+      "maxCount" : 37
+    },
+    "homeoffice" : {
+      "counts" : {
+        "prozentual" : 2,
+        "nv_false" : 2,
+        "nv_true" : 7
+      },
+      "maxCount" : 37
+    },
+    "angebotsart" : {
+      "counts" : {
+        "1" : 27,
+        "2" : 5,
+        "4" : 5
+      },
+      "maxCount" : 37
+    },
+    "quereinstieg" : {
+      "counts" : {
+        "false" : 34,
+        "true" : 3
+      },
+      "maxCount" : 37
+    },
+    "branche" : {
+      "counts" : {
+        "1" : 1,
+        "11" : 3,
+        "13" : 7,
+        "15" : 1,
+        "18" : 2,
+        "28" : 8,
+        "4" : 5,
+        "5" : 3,
+        "6" : 5,
+        "9" : 1
+      },
+      "maxCount" : 37
+    },
+    "arbeitszeit" : {
+      "counts" : {
+        "tz" : 1,
+        "vz" : 36
+      },
+      "maxCount" : 37
+    },
+    "eintrittsdatum" : {
+      "counts" : {
+        "10_01_01-now" : 28,
+        "26_11_01-26_12_01" : 22,
+        "26_12_01-27_01_01" : 4,
+        "27_08_01-27_09_01" : 5
+      },
+      "maxCount" : 37
+    },
+    "zeitarbeit" : {
+      "counts" : {
+        "false" : 31,
+        "true" : 6
+      },
+      "maxCount" : 37
+    },
+    "topberufsfeld" : {
+      "counts" : {
+        "Unteroffiziere mit Portepee" : 2,
+        "Informatik" : 10,
+        "Softwareentwicklung und Programmierung" : 6,
+        "Mathematik und Statistik" : 1,
+        "IT-Netzwerktechnik, -Administration, -Organisation" : 6,
+        "Elektrotechnik" : 4,
+        "IT-Systemanalyse, -Anwendungsberatung und -Vertrieb" : 1,
+        "Werbung und Marketing" : 1,
+        "Objekt-, Personen-, Brandschutz, Arbeitssicherheit" : 1,
+        "Technische Produktionsplanung und -steuerung" : 1,
+        "Mechatronik und Automatisierungstechnik" : 1
+      },
+      "scores" : {
+        "Unteroffiziere mit Portepee" : 206350,
+        "Informatik" : 72400,
+        "Softwareentwicklung und Programmierung" : 44929,
+        "Mathematik und Statistik" : 38582,
+        "IT-Netzwerktechnik, -Administration, -Organisation" : 30807,
+        "Elektrotechnik" : 5020,
+        "IT-Systemanalyse, -Anwendungsberatung und -Vertrieb" : 1182,
+        "Werbung und Marketing" : 725,
+        "Objekt-, Personen-, Brandschutz, Arbeitssicherheit" : 716,
+        "Technische Produktionsplanung und -steuerung" : 431,
+        "Mechatronik und Automatisierungstechnik" : 205
+      },
+      "maxCount" : 37
+    }
+  }
+}
