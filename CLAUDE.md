@@ -22,7 +22,7 @@ Bundesagentur für Arbeit Jobsuche API.
 - Header: `X-API-Key: jobboerse-jobsuche`
 - Search: GET /pc/v6/jobs (v4 returns 403)
 - Details: GET /pc/v4/jobdetails/{base64(refnr)} (v3, v5, v6 return 403)
-- Field names are German. Models expose English names via `Field(alias=...)`.
+- Field names are German. Models expose English names via `Field(validation_alias=...)`.
 - Empty search omits `ergebnisliste`. List fields need `default_factory=list`.
 - `angebotsart=1` means regular jobs. Default to it.
 
